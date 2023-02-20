@@ -5,7 +5,7 @@ A Deep Learning Based Chatbot implemented using the [Seq2Seq](https://github.com
 * Designed and Trained a Deep NLP model on a Seq2Seq Architecture to create a chatbot using the TensorFlow RNN(LSTM) model.
 * The dataset used to train the chatbot is the Cornell Movie Corpus Dataset, which contains nearly 220,000 lines of conversation between characters from over 600 movies, this helps in creating a chatbot that can have general conversations.
 
-<p align="center"><img src="images/seq2seq.png" />
+<p align="center"><img src="https://dennybritz.com/wp-content/uploads/2016/04/nct-seq2seq.png" />
 Image source: <a href="http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/">Deep Learning for Chatbots Part 1</a></p>
 
 ### Get Started
